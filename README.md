@@ -1,5 +1,4 @@
-Commands to set up free, reproducible, and lightweight Ubuntu based environment.
-Aimed for daily tasks of Biology student/researcher. 
+Commands to set up free, reproducible, and lightweight Ubuntu based environment suited for daily tasks of Biology student/researcher. 
 
 # Tools:
   * ImageJ
@@ -16,3 +15,6 @@ Aimed for daily tasks of Biology student/researcher.
 # Config files
   * .bashrc
   * .vimrc
+
+# Disclaimer
+The `StackScript.sh` contains the commands to install the individual tools, but is not yet tested in full. Better to be used as a resource of code snippets.
